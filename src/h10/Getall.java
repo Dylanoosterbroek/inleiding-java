@@ -1,12 +1,11 @@
 package h10;
 
 
-import javax.swing.*;
 import java.applet.Applet;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.sql.SQLOutput;
+
 
 public class Getall extends Applet {
     TextField tekstvak;
@@ -41,4 +40,3 @@ public class Getall extends Applet {
         }
     }
 }
-
